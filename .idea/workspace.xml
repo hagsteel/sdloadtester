@@ -26,7 +26,7 @@
       <file leaf-file-name="connection.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/connections/connection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="22" selection-start="1628" selection-end="1628" vertical-scroll-proportion="0.0" vertical-offset="827" max-vertical-offset="1485">
+            <state line="66" column="22" selection-start="1628" selection-end="1628" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1485">
               <folding />
             </state>
           </provider>
@@ -35,7 +35,7 @@
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="19" selection-end="19" vertical-scroll-proportion="0.045592707" vertical-offset="0" max-vertical-offset="658">
+            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="658">
               <folding />
             </state>
           </provider>
@@ -535,14 +535,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/connections/connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="22" selection-start="1628" selection-end="1628" vertical-scroll-proportion="0.0" vertical-offset="827" max-vertical-offset="1485">
+        <state line="66" column="22" selection-start="1628" selection-end="1628" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1485">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="19" selection-end="19" vertical-scroll-proportion="0.045592707" vertical-offset="0" max-vertical-offset="658">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="658">
           <folding />
         </state>
       </provider>
